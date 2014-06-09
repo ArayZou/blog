@@ -1,5 +1,4 @@
-#Node blog 练习#
+#Node blog practice
 
-这是一份node博客的练习文档
+node 鍗氬缁冧範
 
-[链接](https://github.com/ArayZou/blog)
